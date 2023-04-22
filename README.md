@@ -1,3 +1,9 @@
+# Generate Love Stories using Large Language Models
+
+## Collaborators
+CHRISTOPHER T. KANG and DHRUV SINHA, The University of Chicago, USA
+
+
 Large Language Models (LLMs) are lauded for their ability to consume massive volumes of text. This ability is pertinent when
 consuming corpora containing long-form text, e.g., books, scientific papers, or when generating long-form text. However, specific
 genres — like poetry — are defined by their brevity. In this work, we train GPT2 Neo via prompt engineering and fine-tuning on the New
