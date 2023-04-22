@@ -19,4 +19,4 @@ love story within 100 words. To achieve this generation, we proceed with the pro
 obtained stories.
 * Training: We test two training strategies, prompt engineering and fine-tuning, and analyze their performance
 when generating text.
-* Evaluation: We compare the generated and actual text, then conduct human studies to test the indistinguishability of LLM-generated text.
+* Evaluation: We compare the generated and actual text, then conduct human studies to test the indistinguishability of LLM-generated text.
