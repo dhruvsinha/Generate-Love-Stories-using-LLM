@@ -1,7 +1,7 @@
 # Generate Love Stories using Large Language Models
 
-## Collaborators
 CHRISTOPHER T. KANG and DHRUV SINHA, The University of Chicago, USA
+
 
 
 Large Language Models (LLMs) are lauded for their ability to consume massive volumes of text. This ability is pertinent when
