@@ -25,8 +25,7 @@ In this summary document, we will briefly describe the training and evaluation p
 
 ## Training
 Because our task is text generation, we choose to use the GPT family of models. In particular, the GPT Neo models are
-well-known and have been optimized. We consider two of the newer models, GPT2-Neo 2.7B [2] and GPT2-NeoX 20B
-[1]. Using these two models, we test two strategies to generate content: Prompt Engineering and Fine Tuning. The results from fine-tuned model were incomprehensible. We have discussed the potential reasons in the paper. Here, we have discussed the Prompt Engineering approach briefly:
+well-known and have been optimized. We consider two of the newer models, **GPT2-Neo 2.7B and GPT2-NeoX 20B**. Using these two models, we test two strategies to generate content: **Prompt Engineering and Fine Tuning**. The results from fine-tuned model were incomprehensible. We have discussed the potential reasons in the paper. Here, we have discussed the Prompt Engineering approach briefly:
 
 Our prompt engineering approach is intuitive " we provide the following prompt structure to the model:
 
