@@ -15,8 +15,8 @@ stories. We explore what this implies for the capabilities of LLMs in concise, e
 In our text generation task, we provide the model with a real NYT Tiny Love Stories title and seek to generate a realistic
 love story within 100 words. To achieve this generation, we proceed with the project in three phases:
 
-1) Gather data: We scrape the title and text of Tiny Love Stories, then perform a qualitative analysis of the
+* Gather data: We scrape the title and text of Tiny Love Stories, then perform a qualitative analysis of the
 obtained stories.
-(2) Training: We test two training strategies, prompt engineering and fine-tuning, and analyze their performance
+* Training: We test two training strategies, prompt engineering and fine-tuning, and analyze their performance
 when generating text.
-(3) Evaluation: We compare the generated and actual text, then conduct human studies to test the indistinguishability of LLM-generated text.
+* Evaluation: We compare the generated and actual text, then conduct human studies to test the indistinguishability of LLM-generated text.
