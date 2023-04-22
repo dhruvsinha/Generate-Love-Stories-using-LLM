@@ -29,6 +29,7 @@ well-known and have been optimized. We consider two of the newer models, GPT2-Ne
 [1]. Using these two models, we test two strategies to generate content: Prompt Engineering and Fine Tuning. The results from fine-tuned model were incomprehensible. We have discussed the potential reasons in the paper. Here, we have discussed the Prompt Engineering approach briefly:
 
 Our prompt engineering approach is intuitive " we provide the following prompt structure to the model:
+
 Title: [[ Example title ]]
 Story: [[ Example story]]
 
