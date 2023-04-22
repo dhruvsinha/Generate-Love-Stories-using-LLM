@@ -77,9 +77,11 @@ For example:
 
 ***Who’s There?***
 
-My 88-year-old mother looks at the screen, squinting. "Who’s there, you say?" My brother explains that
+*My 88-year-old mother looks at the screen, squinting. "Who’s there, you say?" My brother explains that
 the boxes frame her other children. Three thousand miles away, in Chicago, I wait for my 97-year-old
 father to sit down. Zoom, coronavirus, Lima, Chicago, Florida and dementia collide on our screens. I
 usually travel to Peru every other month to care for my parents. Without international flights, I feel as
 lost as my mother. I shoo away questions that start with "What if. . . ?" Today, when my mother asks,
-"Who’s there?" I say, "Tu hija." ("Your daughter.")
+"Who’s there?" I say, "Tu hija." ("Your daughter.")*
+
+
