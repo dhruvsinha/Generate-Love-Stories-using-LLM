@@ -75,7 +75,8 @@ piece of information, even in spite of TCG evaluation method
 
 For example:
 
-*** Who’s There?***
+***Who’s There?***
+
 My 88-year-old mother looks at the screen, squinting. "Who’s there, you say?" My brother explains that
 the boxes frame her other children. Three thousand miles away, in Chicago, I wait for my 97-year-old
 father to sit down. Zoom, coronavirus, Lima, Chicago, Florida and dementia collide on our screens. I
