@@ -31,9 +31,12 @@ well-known and have been optimized. We consider two of the newer models, GPT2-Ne
 Our prompt engineering approach is intuitive " we provide the following prompt structure to the model:
 
 Title: [[ Example title ]]
+
 Story: [[ Example story]]
 
+
 Title: [[ Test title ]]
+
 Story:
 
 During generation, we randomly select an example title/story pair from the training dataset. We then requested the
