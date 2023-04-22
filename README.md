@@ -30,12 +30,12 @@ well-known and have been optimized. We consider two of the newer models, GPT2-Ne
 
 Our prompt engineering approach is intuitive " we provide the following prompt structure to the model:
 
-Title: [[ Example title ]]
+Title: [Example title]
 
-Story: [[ Example story]]
+Story: [Example story]
 
 
-Title: [[ Test title ]]
+Title: [Test title]
 
 Story:
 
