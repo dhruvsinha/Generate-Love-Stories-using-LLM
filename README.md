@@ -67,3 +67,18 @@ Our primary aim, indistinguishability, is supported when analyzing our quantitat
 studying which stories were typically judged as human-generated, we noticed three core attributes:
 1. **Subtle emotional content**: Tiny Love Stories are fundamentally emotional — they aim to invoke an emotional
 response in the reader. Evaluators preferred stories with an emotional appeal
+2. **Information persistence**: While content was important, we also observed the importance of inter-sentence
+syntax. Because the 20B model largely was correct syntactically for individual sentences, evaluators instead
+relied on the overall composition of passages.
+3. **Relevance to provided title**: Unsurprisingly, the alignment of the story with respect to the title was a key
+piece of information, even in spite of TCG evaluation method
+
+For example:
+
+*** Who’s There?***
+My 88-year-old mother looks at the screen, squinting. "Who’s there, you say?" My brother explains that
+the boxes frame her other children. Three thousand miles away, in Chicago, I wait for my 97-year-old
+father to sit down. Zoom, coronavirus, Lima, Chicago, Florida and dementia collide on our screens. I
+usually travel to Peru every other month to care for my parents. Without international flights, I feel as
+lost as my mother. I shoo away questions that start with "What if. . . ?" Today, when my mother asks,
+"Who’s there?" I say, "Tu hija." ("Your daughter.")
